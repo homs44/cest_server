@@ -81,7 +81,7 @@ exports.query_set = {
     'and classes.c_class_id = classtime.c_class_id and classes.semester = ?;',
     //[c_user_id,semester]
 
-
+    //aaaaa
 
 
 };
